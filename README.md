@@ -32,3 +32,11 @@ You: tell me another joke
 ChatBot: Why do programmers prefer dark mode? Because the light attracts bugs!
 You: exit
 ChatBot: Goodbye!
+
+
+
+
+
+# 📝 License
+
+This project is licensed under the [MIT License](./LICENSE) — free for personal and commercial use.
