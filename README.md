@@ -1,7 +1,7 @@
 # Advance-AI-Chatbot-USING-PYTHON
 # 🤖 Advanced Console-Based Chatbot using GPT-2
 
-A simple yet powerful chatbot built with Python that uses the **GPT-2 model** from Hugging Face’s 🤗 `transformers` library.  
+A simple yet powerful chatbot built with Python that uses the **GPT-2 model** from Hugging Face’s  `transformers` library.  
 It runs in your **terminal/console**, supports **contextual conversations**, and can be extended into web apps, APIs, or desktop apps.
 
 ---
